@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Jônatas Bueno! 🇧🇷
 
-### Desenvolvedor Full-Stack JavaScript / TypeScript
+### Desenvolvedor Full-Stack JavaScript / TypeScript / Python
 
 📍 **Localização:** [[Capivari-SP/Brasil](https://www.google.com/maps/place/Capivari,+SP,+13360-000/@-22.9977169,-47.6543259,12z/data=!3m1!4b1!4m6!3m5!1s0x94c61c5e00d538c5:0xd32feb27e284e972!8m2!3d-22.9946056!4d-47.5094598!16s%2Fg%2F11bc6p12v3?hl=pt-BR&entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D)]   
 📫 **E-mail:** [jonatas.livramento@gmail.com]  
