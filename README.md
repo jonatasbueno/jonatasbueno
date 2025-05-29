@@ -21,7 +21,7 @@
 
 ## 🏆 Destaques
 - **8+ anos** desenvolvendo aplicações web/mobile
-- Experiência em **arquitetura Front-end** (Micro Frontends, Design Systems)
+- Expertise em **arquitetura Front-end** (Micro Frontends, Design Systems)
 <!-- - **Contribuidor Open-Source** em [projetos relevantes] -->
 
 <br />
