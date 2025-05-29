@@ -2,8 +2,11 @@
 
 ### Desenvolvedor Full-Stack JavaScript / TypeScript
 
-📍 **Localização:** [Capivari-SP/Brasil]   
-📫 **Contato:** [jonatas.livramento@gmail.com] | [[LinkedIn](https://www.linkedin.com/in/jonataslivramento)]
+📍 **Localização:** [[Capivari-SP/Brasil](https://www.google.com/maps/place/Capivari,+SP,+13360-000/@-22.9977169,-47.6543259,12z/data=!3m1!4b1!4m6!3m5!1s0x94c61c5e00d538c5:0xd32feb27e284e972!8m2!3d-22.9946056!4d-47.5094598!16s%2Fg%2F11bc6p12v3?hl=pt-BR&entry=ttu&g_ep=EgoyMDI1MDUyNi4wIKXMDSoASAFQAw%3D%3D)]   
+📫 **E-mail:** [jonatas.livramento@gmail.com]  
+👜 **LinkedIn:** [[LinkedIn](https://www.linkedin.com/in/jonataslivramento)]  
+📃 **Currículo:** [[aqui](https://drive.google.com/file/d/1_9e-4-nQodUCM4QdUPkr3uOO1nppjv6O/view)]  
+👨🏾‍🦲 **Carta de Apresentação:** [[aqui](https://drive.google.com/file/d/1Pre8j28dYQV7fQXfpvWxi8y-MYyTQXgw/view?usp=sharing)]  
 <!-- 🌐 **Portfólio:** [https://meuportfolio.com](https://meuportfolio.com)  -->
 
 <br/>
@@ -77,5 +80,3 @@
 | App de Delivery | React Native, Firebase | [Demo](#) |
 | Lib de Utilitários | TypeScript, Jest | [npm](#) |
 -->
-
-📃 Baixe meu currículo [aqui](https://drive.google.com/file/d/1_9e-4-nQodUCM4QdUPkr3uOO1nppjv6O/view)
