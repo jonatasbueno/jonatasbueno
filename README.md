@@ -35,6 +35,8 @@
 
 [![jonatasbueno](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasbueno&hide=html&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
+[![roadmap.sh](https://roadmap.sh/card/wide/68410c4ea7a6cad707597157?variant=dark)](https://roadmap.sh)
+
 <br/>
 
 ## 📚 Outras Skills
